@@ -53,12 +53,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Controller\Interfaces\" />
-	  <Folder Include="Model\ViewModels\" />
-	  <Folder Include="Views\zShared\" />
-	</ItemGroup>
-
-	<ItemGroup>
 	  <MauiXaml Update="Views\Administration\NewProduct.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
@@ -101,6 +95,10 @@
 	  <MauiXaml Update="Views\xLogin\Register.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Controller\Interface\" />
 	</ItemGroup>
 
 </Project>

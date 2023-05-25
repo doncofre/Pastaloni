@@ -16,9 +16,9 @@ public partial class MainPage : ContentPage
 
         //      });
         //lvUsuarios.Header = "Lista de Usuarios";
-        var a = Controller.Controllers.PersonaController.returnsUserCtrl();
+        //var a = Controller.Controllers.PersonaController.returnsUserCtrl();
         List<string> list = new List<string>() { "Jhon Doe", "Jane Doe","Tom Hanks"};
-        lvUsers.ItemsSource = a.ToList();
+        //lvUsers.ItemsSource = a.ToList();
         //lvUsers.BindingContext = a;
         ////Content = lvUsuarios;
         
