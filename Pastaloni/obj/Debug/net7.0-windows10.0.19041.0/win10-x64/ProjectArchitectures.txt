@@ -1,0 +1,1 @@
+C:\Proyects\Pastaloni\Pastaloni\Pastaloni\Pastaloni.csproj;x64
