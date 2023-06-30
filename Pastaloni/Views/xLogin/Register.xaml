@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Pastaloni.Views.xLogin.Register"
+             Title="Register">
+    
+    <VerticalStackLayout BackgroundColor="White" VerticalOptions="Center">
+        
+        <Label HorizontalTextAlignment="Center" Text="Register" TextColor="Black"></Label>
+        <Entry TextColor="Black" 
+               x:Name="txtName"
+               x:DataType="TextCell"
+               AnchorX="300" 
+               AnchorY="100" 
+               WidthRequest="300"
+               Placeholder="Name"></Entry>
+
+        <Entry TextColor="Black" 
+               x:Name="txtLastName"
+               x:DataType="TextCell"
+               AnchorX="300" 
+               AnchorY="100" 
+               WidthRequest="300"
+               Placeholder="LastName"></Entry>
+
+        <Entry TextColor="Black" 
+               x:Name="txtDNI"
+               x:DataType="TextCell"
+               AnchorX="300" 
+               AnchorY="100" 
+               WidthRequest="300"
+               Placeholder="DNI"></Entry>
+
+        <Entry TextColor="Black" 
+               x:Name="txtEmail"
+               x:DataType="TextCell"
+               AnchorX="300" 
+               AnchorY="100" 
+               WidthRequest="300"
+               Placeholder="Email"></Entry>
+
+        <Entry TextColor="Black" 
+               x:Name="txtPassword"
+               x:DataType="TextCell"
+               IsPassword="True"
+               AnchorX="300" 
+               AnchorY="100" 
+               WidthRequest="300"
+               Placeholder="Password"></Entry>
+
+        <Entry TextColor="Black" 
+               x:Name="txtRePassword"
+               x:DataType="TextCell"
+               IsPassword="True"
+               AnchorX="300" 
+               AnchorY="100" 
+               WidthRequest="300"
+               Placeholder="Repeat Password"></Entry>
+
+        <Entry TextColor="Black" 
+               x:Name="txtPhone"
+               x:DataType="x:Int32"
+               AnchorX="300" 
+               AnchorY="100" 
+               WidthRequest="300"
+               Placeholder="Phone"></Entry>
+
+        <Entry TextColor="Black" 
+               x:Name="txtAdress"
+               x:DataType="TextCell"
+               AnchorX="300" 
+               AnchorY="100" 
+               WidthRequest="300"
+               Placeholder="Address"></Entry>
+        
+        <Entry TextColor="Black" 
+               x:Name="txtBirth"
+               x:DataType="DatePicker"
+               AnchorX="300" 
+               AnchorY="100" 
+               WidthRequest="300"
+               Placeholder="Birth"></Entry>
+
+        <HorizontalStackLayout HorizontalOptions="Center" >
+            <Button Text="Register"
+                    IsEnabled="True"
+                    Clicked="btnRegister_Clicked"
+                    BackgroundColor="AliceBlue"
+                    TextColor="DarkGrey"
+            
+            ></Button>
+            <Button Text="Cancel"
+                    IsEnabled="True"
+                    Clicked="btnCancel_Clicked"
+                    BackgroundColor="AliceBlue"
+                    TextColor="DarkGrey"
+            
+            ></Button>
+
+
+        </HorizontalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>

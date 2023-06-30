@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Pastaloni.Views.xLogin.Login"
+             Title="Login">
+    <VerticalStackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        
+        <Label 
+            TextColor="Black"
+            Text="LOG IN"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        
+        <Entry Placeholder="USER" 
+               TextColor="black"
+               x:Name="txtUser"
+               ></Entry>
+        
+        <Entry Placeholder="PASSWORD" 
+               TextColor="Black" 
+               IsPassword="True"
+               x:Name="txtPassword"
+               ></Entry>
+        
+        <Button Text="Log In"
+                BackgroundColor="LightSkyBlue"
+                x:Name="btnLogin"
+                Clicked="btnLogin_Clicked"></Button>
+        
+        
+        <HorizontalStackLayout>
+            
+            <Button Text="Register" 
+                    BackgroundColor="LightSkyBlue"
+                    x:Name="btnRegister"
+                    Clicked="btnRegister_Clicked"
+                    ></Button>
+            
+            <Button Text="Password Forgotten?" 
+                    BackgroundColor="LightSkyBlue"
+                    x:Name="btnPasswordForgotten"
+                    Clicked="btnPasswordForgotten_Clicked"
+                    ></Button>
+            
+        </HorizontalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>
