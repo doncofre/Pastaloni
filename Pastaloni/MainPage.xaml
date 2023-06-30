@@ -3,6 +3,34 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Pastaloni.MainPage">
 
+    <ContentPage.MenuBarItems>
+        <MenuBarItem Text="MENU" 
+                     x:Name="menuBar"
+                     >
+            
+            <!--<MenuFlyoutItem Clicked="menuSell_Clicked"
+                            Text="Sell"
+                            x:Name="menuSell"
+                            ></MenuFlyoutItem>
+
+            <MenuFlyoutItem Clicked="menuTrader_Clicked"
+                            Text="Trader"
+                            x:Name="menuTrader"
+                            ></MenuFlyoutItem>
+
+            <MenuFlyoutItem Clicked="menuWareHouse_Clicked"
+                            Text="WareHouse"
+                            x:Name="menuWareHouse"
+                            ></MenuFlyoutItem>
+
+            <MenuFlyoutItem Clicked="menuAdmin_Clicked"
+                            Text="Admin"
+                            x:Name="menuAdmin"
+                            ></MenuFlyoutItem>-->
+        </MenuBarItem>
+        
+        
+    </ContentPage.MenuBarItems>
     <ScrollView>
         <VerticalStackLayout
             Spacing="25"
@@ -36,6 +64,7 @@
                 HorizontalOptions="Center" />
 
         </VerticalStackLayout>
-    </ScrollView>
 
+    </ScrollView>
+    
 </ContentPage>
