@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyects\\Pastaloni\\Pastaloni\\Pastaloni\\Pastaloni.csproj": {}
+    "C:\\Users\\cofre\\OneDrive\\Escritorio\\App\\Pastaloni\\Pastaloni\\Pastaloni\\Pastaloni.csproj": {}
   },
   "projects": {
-    "C:\\Proyects\\Pastaloni\\Pastaloni\\Pastaloni\\Pastaloni.csproj": {
+    "C:\\Users\\cofre\\OneDrive\\Escritorio\\App\\Pastaloni\\Pastaloni\\Pastaloni\\Pastaloni.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyects\\Pastaloni\\Pastaloni\\Pastaloni\\Pastaloni.csproj",
+        "projectUniqueName": "C:\\Users\\cofre\\OneDrive\\Escritorio\\App\\Pastaloni\\Pastaloni\\Pastaloni\\Pastaloni.csproj",
         "projectName": "Pastaloni",
-        "projectPath": "C:\\Proyects\\Pastaloni\\Pastaloni\\Pastaloni\\Pastaloni.csproj",
+        "projectPath": "C:\\Users\\cofre\\OneDrive\\Escritorio\\App\\Pastaloni\\Pastaloni\\Pastaloni\\Pastaloni.csproj",
         "packagesPath": "C:\\Users\\cofre\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyects\\Pastaloni\\Pastaloni\\Pastaloni\\obj\\",
+        "outputPath": "C:\\Users\\cofre\\OneDrive\\Escritorio\\App\\Pastaloni\\Pastaloni\\Pastaloni\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

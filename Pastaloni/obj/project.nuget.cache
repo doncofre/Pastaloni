@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4M6ho/UcJcN79hycNzMhAqIytVpEy0e9uBbzl5Rbky5Dck5SyUtB4mEk6Ynfi5TsMJo+7PJVzVQzvSSO+0ckjg==",
+  "dgSpecHash": "uk2EvWUkLsMKkBG4MpuYAEWCRrqziUC3y5cdvBJ/yrAvwbBr6ZFTMcmdWAPeC09ww1kLItR3ruD4JnPuHgOsPQ==",
   "success": true,
-  "projectFilePath": "C:\\Proyects\\Pastaloni\\Pastaloni\\Pastaloni\\Pastaloni.csproj",
+  "projectFilePath": "C:\\Users\\cofre\\OneDrive\\Escritorio\\App\\Pastaloni\\Pastaloni\\Pastaloni\\Pastaloni.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cofre\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\cofre\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

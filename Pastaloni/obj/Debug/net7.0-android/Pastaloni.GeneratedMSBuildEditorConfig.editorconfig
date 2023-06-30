@@ -12,34 +12,118 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = Pastaloni
-build_property.ProjectDir = C:\Proyects\Pastaloni\Pastaloni\Pastaloni\
+build_property.ProjectDir = C:\Users\cofre\OneDrive\Escritorio\App\Pastaloni\Pastaloni\Pastaloni\
 
-[C:/Proyects/Pastaloni/Pastaloni/Pastaloni/App.xaml]
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Proyects/Pastaloni/Pastaloni/Pastaloni/AppShell.xaml]
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Proyects/Pastaloni/Pastaloni/Pastaloni/MainPage.xaml]
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Proyects/Pastaloni/Pastaloni/Pastaloni/Resources/Styles/Colors.xaml]
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Proyects/Pastaloni/Pastaloni/Pastaloni/Resources/Styles/Styles.xaml]
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/Views/Administration/NewProduct.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.Views.Administration.NewProduct.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Administration\NewProduct.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Administration\NewProduct.xaml
+
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/Views/Administration/Users.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.Views.Administration.Users.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Administration\Users.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Administration\Users.xaml
+
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/Views/Administration/ViewMap.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.Views.Administration.ViewMap.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Administration\ViewMap.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Administration\ViewMap.xaml
+
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/Views/Administration/ViewSelling.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.Views.Administration.ViewSelling.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Administration\ViewSelling.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Administration\ViewSelling.xaml
+
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/Views/Administration/ZoneEditing.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.Views.Administration.ZoneEditing.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Administration\ZoneEditing.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Administration\ZoneEditing.xaml
+
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/Views/Trader/ModifyBill.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.Views.Trader.ModifyBill.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Trader\ModifyBill.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Trader\ModifyBill.xaml
+
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/Views/Trader/NewClient.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.Views.Trader.NewClient.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Trader\NewClient.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Trader\NewClient.xaml
+
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/Views/Trader/Sell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.Views.Trader.Sell.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Trader\Sell.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Trader\Sell.xaml
+
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/Views/Trader/ViewSelling.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.Views.Trader.ViewSelling.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Trader\ViewSelling.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Trader\ViewSelling.xaml
+
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/Views/Warehouse/Stock.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.Views.Warehouse.Stock.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Warehouse\Stock.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Warehouse\Stock.xaml
+
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/Views/Warehouse/Waste.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.Views.Warehouse.Waste.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Warehouse\Waste.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Warehouse\Waste.xaml
+
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/Views/xLogin/ForgottenPassword.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.Views.xLogin.ForgottenPassword.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\xLogin\ForgottenPassword.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\xLogin\ForgottenPassword.xaml
+
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/Views/xLogin/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.Views.xLogin.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\xLogin\Login.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\xLogin\Login.xaml
+
+[C:/Users/cofre/OneDrive/Escritorio/App/Pastaloni/Pastaloni/Pastaloni/Views/xLogin/Register.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pastaloni.Views.xLogin.Register.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\xLogin\Register.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\xLogin\Register.xaml
